@@ -1,2 +1,2 @@
-# BFA
- Frontend School Agency Web App.
+# angular with ng-bootstrap
+ Frontend Web App trial test.
